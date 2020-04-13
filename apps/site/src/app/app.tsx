@@ -148,7 +148,7 @@ export const App = () => {
     <StyledApp>
       <header className="flex">
         <Logo width="75" height="75" />
-        <h1>Welcome to site!</h1>
+        <h1>Welcome to site foo!</h1>
       </header>
       <main>
         <h2>Resources &amp; Tools</h2>
