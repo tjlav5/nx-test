@@ -31,7 +31,7 @@
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "styled-components": "5.0.1",
-    "express": "4.17.1"
+    "express": "4.17.3"
   },
   "devDependencies": {
     "@nrwl/cypress": "9.2.2",
